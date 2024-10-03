@@ -1,2 +1,2 @@
 # radioaktivita
-**By** *Matzáš Velecký* **a** *Dominik Valigura*
+**By** *Matyáš Velecký* **a** *Dominik Valigura*
